@@ -5,8 +5,12 @@ You can choose one module from the list below:-
 3)Dynamic Programming
 
 
-Pawan Dubey
-Dynamic Programming
-Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
+Ajay V M
+Divide and Conquer Algorithms
+In a "Divide and Conquer Algorithms" course, We dived deeper into a specific algorithmic strategy.
+key concepts are:-
+Divide: How to break down a complex problem into smaller, more manageable subproblems.
+Conquer: How to solve the subproblems efficiently, either by solving them directly or by further dividing them.
+Combine: How to combine the solutions of the subproblems to obtain the solution to the original problem.
 
 
